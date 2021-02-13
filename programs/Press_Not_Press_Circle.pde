@@ -4,11 +4,12 @@ void setup() {
   stroke(255,255,255);
   strokeWeight(3);
 }
-void draw(){
+
+void draw() {
   background(0);
   ellipse(mouseX, mouseY, 80, 80);
-
 }
+
 void mouseReleased() {
   fill(54,247,30);
   stroke(255,255,255);
@@ -21,4 +22,3 @@ void mousePressed() {
   stroke(255,247,0);
   strokeWeight(10);
 }
-
