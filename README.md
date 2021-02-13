@@ -1,2 +1,2 @@
-# Processing
-Processing Programs
+# Processing Programs
+Programs made with Processing.
